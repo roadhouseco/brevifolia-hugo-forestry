@@ -1,9 +1,9 @@
 ---
 title: Song of Myself
-date: 
+date: ''
 type: blog
 hero: "/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
-author: ''
+author: Friedrich Nietzsche
 
 ---
 I have heard what the talkers were talking, the talk of the  
