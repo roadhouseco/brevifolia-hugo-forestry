@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Paramhansa Yogananda"
 date = ""
 hero = "/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 title = "Ne te quaesiveris extra."

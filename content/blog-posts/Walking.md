@@ -1,8 +1,8 @@
 ---
 title: An Essay on Walking
-date: 
+date: ''
 type: blog
-author: ''
+author: Valentina Tereshkova
 hero: "/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
