@@ -1,8 +1,8 @@
 ---
 title: On the Genealogy of Morals
-date: 
+date: ''
 type: blog
-author: ''
+author: Friedrich Nietzsche
 hero: "/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 
 ---
